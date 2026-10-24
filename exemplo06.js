@@ -8,6 +8,3 @@ console.log(` ${nome} - ${turma}`);
 
 import dados from "exemplo01.js" with { type: "json" };
 
-let dados01 = exemplo01;
-
-console.log(dados01);
